@@ -10,7 +10,6 @@ class Student{
 void main(List<String> args) {
   Student s = new Student();
   s.call();
-
   Student.calling();
 
 }
