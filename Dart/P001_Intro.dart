@@ -3,12 +3,12 @@ void main(List<String> args) {
   print(a);
   
   String name ="dart457#&&";
-  print(name);
+  print(name.runtimeType);
   
   double d = 3.14;
   print(d);
 
   bool flag = false;
-  print(flag);
+  print(flag.runtimeType);
 
 }
