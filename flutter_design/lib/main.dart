@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_design/row_column.dart';
+import 'package:flutter_design/p01_row_column.dart';
+
+import 'p02_decoration.dart';
+import 'p03_card.dart';
+import 'p04_margin_padding.dart';
+import 'p05_image.dart';
 
 void main() {
   runApp(const MyText());
