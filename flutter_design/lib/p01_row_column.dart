@@ -79,6 +79,7 @@ class MyColumn extends StatelessWidget {
                     height: 20,
                   ),
                   Container(
+                    child: Icon(Icons.favorite),
                     height: 400,
                     width: 300,
                     color: Colors.yellow,

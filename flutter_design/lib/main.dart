@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_design/p01_row_column.dart';
 
+import 'listview_l.dart';
 import 'p02_decoration.dart';
 import 'p03_card.dart';
 import 'p04_margin_padding.dart';
@@ -15,7 +16,7 @@ class MyText extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(debugShowCheckedModeBanner: false, home: MyColumn());
+    return MaterialApp(debugShowCheckedModeBanner: false, home: MyListView());
   }
 }
 
